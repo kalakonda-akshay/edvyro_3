@@ -1,0 +1,7 @@
+[
+  {"title":"Backend Developer Intern","company":"BrightLabs","location":"Hyderabad","work_mode":"hybrid","stipend":15000,"description":"Build REST APIs with Python and PostgreSQL.","deadline":"2026-12-15","status":"open"},
+  {"title":"Frontend Developer Intern","company":"PixelForge","location":"Remote","work_mode":"remote","stipend":12000,"description":"Create responsive UIs with React.","deadline":"2026-12-01","status":"open"},
+  {"title":"Data Analyst Intern","company":"InsightWorks","location":"Bengaluru","work_mode":"onsite","stipend":10000,"description":"Clean datasets and build dashboards.","deadline":"2026-11-30","status":"open"},
+  {"title":"QA Automation Intern","company":"TestNest","location":"Pune","work_mode":"hybrid","stipend":null,"description":"Write automated tests with Pytest.","deadline":"2026-10-01","status":"closed"},
+  {"title":"DevOps Intern","company":"CloudCrate","location":"Remote","work_mode":"remote","stipend":18000,"description":"Work on CI/CD pipelines and Docker.","deadline":"2027-01-10","status":"open"}
+]
